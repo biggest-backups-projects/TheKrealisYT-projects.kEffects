@@ -1,0 +1,7 @@
+name: kEffects
+version: 1.0
+main: ru.exept.kEffects.Main
+api-version: 1.17
+commands:
+  skam:
+    description: "zaskamit krealisa"
